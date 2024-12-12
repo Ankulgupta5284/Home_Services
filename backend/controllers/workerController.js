@@ -1,6 +1,6 @@
 import workerModel from "../models/workerModel.js"
 import jwt from "jsonwebtoken";
-import bcrypt from "bcrypt";
+import bcrypt from 'bcryptjs';
 import bookingModel from "../models/bookingModel.js";
  
 
